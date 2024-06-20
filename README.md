@@ -1,5 +1,5 @@
-# Hola, mi nombre es Alexis Vega👋
-### Desarrollador Web en prceso
+# Hola, mi nombre es Alexis Vega 👋
+### Desarrollador Web en proceso
 
 Soy estudiante de desarrollo de software desde comienzos del año 2024.
 
