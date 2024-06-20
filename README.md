@@ -22,8 +22,5 @@ Estoy muy feliz de escribir en estas lineas que será un placer poder formar par
 ## Contacto y apoyo:
 
 </br>
-[![Email](https://img.shields.io/badge/alexis.vega.311@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:alexis.vega.311@gmail.com)
-</br>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_estudio-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://buymeacoffee.com/alexismouwid
-)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_estudio-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://buymeacoffee.com/alexismouwid)
 
