@@ -14,11 +14,11 @@ Estoy muy feliz de escribir en estas lineas que será un placer poder formar par
 #Mis otras redes sociales
 
 
-scord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)] (@seinmainein)
+scord](https://img.shields.io/badge/Discord-alexismouwid-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)] (@seinmainein)
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/alexismouwid)
+[![Twitter](https://img.shields.io/badge/Twitter-@alexismouwid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/alexismouwid)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/alexismouwid)
+[![Instagram](https://img.shields.io/badge/Instagram-@alexismouwid-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/alexismouwid)
 
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/alexismouwid)
+[![Facebook](https://img.shields.io/badge/Facebook-@alexismouwid-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/alexismouwid)
