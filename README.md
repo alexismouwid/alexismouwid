@@ -13,7 +13,7 @@ Estoy muy feliz de escribir en estas lineas que será un placer poder formar par
 
 #Rutas de contacto: 
 
-[![Discord](https://img.shields.io/badge/Discord-seinmainein-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://seinmainein.com/discord)
+[![Discord](https://img.shields.io/badge/Discord-alexismouwid-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://alexismouwid.com/discord)
 
 [![Twitter](https://img.shields.io/badge/Twitter-@alexismouwid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/alexismouwit)
 [![Instagram](https://img.shields.io/badge/Instagram-@alexismouwid-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/alexismouwid)
