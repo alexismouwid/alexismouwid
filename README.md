@@ -1,16 +1,10 @@
 # Hola, mi nombre es Alexis Vega 👋
-### 🤖 Desarrollador en Proceso
+### 🤖 Desarrollador Wen en Formación
 
-Soy estudiante de desarrollo de software desde comienzos del año 2024.
-
-El primer paso que di en este mundo de la programacion fue de la mano de Nicolas Schurman, muy conocido por su canal de YouTube Hola Mundo. Tuve la oportunidad de inscribirme en esta academia virtual y tomar un curso de JavaScript, HTML Y CSS, con la sorpresa que al final del curso podría adentrarme al framework de React. Para luego conocer TypeScript como segundo lenguaje. 
-
-Sabiendo que en mi pais necesitaría un titulo para obtener un trabajo opté por buscar educacion en el gobierno, asi que entré al programa Mintic de la Universidad de Caldas en el cual logré la certificacion en JavaScript y actualmente Python.
-
-En este punto del camino solo puedo decir que "Sólo sé que no sé nada" frase atribuida al filosofo Socrátes.  Considero que me falta mucho por aprender y estoy sediendo de sabiduria. Solo quiero aprender más y más.
-
-Estoy muy feliz de escribir en estas lineas que será un placer poder formar parte de esta comunidad de desarrolladores.
-
+Soy un apasionado desarrollador web en formación. Llevo más de año y medio sumergido en el mundo del desarrollo web, aprendiendo y practicando HTML, CSS y JavaScript. He trabajado en varios proyectos personales y colaborativos en GitHub, lo que me ha permitido mejorar mis habilidades y aprender de otros desarrolladores.
+Tuve la suerte de estudiar en la Academia de Hola Mundo, donde el profesor Nicolás Shurman me guió y me ayudó a crecer como desarrollador. Gracias a su enseñanza, he podido entender mejor el diseño responsivo y la optimización del rendimiento web.
+Como dijo Sócrates, “solo sé que no sé nada”. Esta frase me inspira a seguir aprendiendo y creciendo cada día. Soy una persona proactiva y siempre estoy buscando nuevas oportunidades para aprender y mejorar. Me encanta enfrentarme a nuevos desafíos y encontrar soluciones creativas. De hecho, si no puedo resolver algo, no soy capaz de dormir hasta que lo resuelva.
+Estoy emocionado por la oportunidad de unirme a un equipo dinámico y colaborar en proyectos innovadores. ¡Estoy listo para llevar mis conocimientos al siguiente nivel y contribuir al éxito de tu equipo!
 #Rutas de contacto: 
 
 [![Discord](https://img.shields.io/badge/Discord-alexismouwid-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://alexismouwid.com/discord)
