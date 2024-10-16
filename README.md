@@ -1,5 +1,4 @@
-🤖 Desarrollador en Formación
-Soy un apasionado estudiante de desarrollo web. Llevo más de año y medio sumergido en el mundo del desarrollo web, aprendiendo y practicando diversas tecnologías. He trabajado en varios proyectos personales y colaborativos, lo que me ha permitido mejorar mis habilidades y aprender de otros desarrolladores.
+🤖 Soy un apasionado estudiante de desarrollo web. Llevo más de año y medio sumergido en el mundo del desarrollo web, aprendiendo y practicando diversas tecnologías. He trabajado en varios proyectos personales y colaborativos, lo que me ha permitido mejorar mis habilidades y aprender de otros desarrolladores.
 
 La mayor parte de mi conocimiento la he obtenido de recursos online, documentación oficial, videos, libros, destacando la Academia de Hola Mundo, donde el profesor Nicolás Shurman me guio y me ayudó a crecer como desarrollador. Gracias a su enseñanza, he podido entender mejor la estructura, diseño, optimización de una web.
 
