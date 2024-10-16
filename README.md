@@ -1,13 +1,14 @@
-# Hola, mi nombre es Alexis Vega 👋
-### 🤖 Desarrollador Wen en Formación
+🤖 Desarrollador en Formación
+Soy un apasionado estudiante de desarrollo web. Llevo más de año y medio sumergido en el mundo del desarrollo web, aprendiendo y practicando diversas tecnologías. He trabajado en varios proyectos personales y colaborativos, lo que me ha permitido mejorar mis habilidades y aprender de otros desarrolladores.
 
-Soy un apasionado desarrollador web en formación. Llevo más de año y medio sumergido en el mundo del desarrollo web, aprendiendo y practicando HTML, CSS y JavaScript. He trabajado en varios proyectos personales y colaborativos en GitHub, lo que me ha permitido mejorar mis habilidades y aprender de otros desarrolladores.
-
-Tuve la suerte de estudiar en la Academia de Hola Mundo, donde el profesor Nicolás Shurman me guió y me ayudó a crecer como desarrollador. Gracias a su enseñanza, he podido entender mejor el diseño responsivo y la optimización del rendimiento web.
+La mayor parte de mi conocimiento la he obtenido de recursos online, documentación oficial, videos, libros, destacando la Academia de Hola Mundo, donde el profesor Nicolás Shurman me guio y me ayudó a crecer como desarrollador. Gracias a su enseñanza, he podido entender mejor la estructura, diseño, optimización de una web.
 
 Como dijo Sócrates, “solo sé que no sé nada”. Esta frase me inspira a seguir aprendiendo y creciendo cada día. Soy una persona proactiva y siempre estoy buscando nuevas oportunidades para aprender y mejorar. Me encanta enfrentarme a nuevos desafíos y encontrar soluciones creativas. De hecho, si no puedo resolver algo, no soy capaz de dormir hasta que lo resuelva.
 
-Estoy emocionado por la oportunidad de unirme a un equipo dinámico y colaborar en proyectos innovadores. ¡Estoy listo para llevar mis conocimientos al siguiente nivel y contribuir al éxito de tu equipo!
+Estoy emocionado por la oportunidad de unirme a un equipo dinámico y colaborar en proyectos innovadores. ¡Estoy listo para llevar mis conocimientos al siguiente nivel y contribuir al éxito de tu equipo! 
+
+Me despido con esta frase:
+"Sigamos hambrientos y alocados" Steve Jobs, 2005 en su famoso discurso en Stanford.
 #Rutas de contacto: 
 
 
