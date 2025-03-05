@@ -1,10 +1,10 @@
-🤖 Soy un apasionado estudiante de desarrollo web. Llevo más de año y medio sumergido en el mundo del desarrollo web, aprendiendo y practicando diversas tecnologías. He trabajado en varios proyectos personales y colaborativos, lo que me ha permitido mejorar mis habilidades y aprender de otros desarrolladores.
+Estudiante de desarrollo web. Llevo más de año y medio sumergido en el mundo del desarrollo web, aprendiendo y practicando diversas tecnologías. He trabajado en varios proyectos personales, lo que me ha permitido mejorar mis habilidades.
 
-La mayor parte de mi conocimiento la he obtenido de recursos online, documentación oficial, videos, libros, destacando la Academia de Hola Mundo, donde el profesor Nicolás Shurman me guio y me ayudó a crecer como desarrollador. Gracias a su enseñanza, he podido entender mejor la estructura, diseño, optimización de una web.
+La mayor parte de mi conocimiento la he obtenido de recursos online, documentación oficial, videos, libros, y inteligencias artificales. Debo destacar la Academia de Hola Mundo, donde el profesor Nicolás Shurman me a guiado  en mi estudio. Gracias a su metodologia de enseñanza, he podido entender mejor las bases de la programación, la estructura y el diseño de esta.
 
-Como dijo Sócrates, “solo sé que no sé nada”. Esta frase me inspira a seguir aprendiendo y creciendo cada día. Soy una persona proactiva y siempre estoy buscando nuevas oportunidades para aprender y mejorar. Me encanta enfrentarme a nuevos desafíos y encontrar soluciones creativas. De hecho, si no puedo resolver algo, no soy capaz de dormir hasta que lo resuelva.
+Como dijo Sócrates, “solo sé que no sé nada”. Debo aprender algo nuevo todos los dias, ser una persona proactiva y estar buscando nuevas oportunidades de aprendizaje. Enfrentarme a mi propia curiosidad al crear desafíos y encontrarle soluciones. De hecho, si no puedo resolver algo, tardaré, pero lo resolveré.
 
-Estoy emocionado por la oportunidad de unirme a un equipo dinámico y colaborar en proyectos innovadores. ¡Estoy listo para llevar mis conocimientos al siguiente nivel y contribuir al éxito de tu equipo! 
+Busco esa oportunidad de unirme a un equipo mucho mejor que yo, y poder aprender de ellos y colaborar en sus proyectos. 
 
 Me despido con esta frase:
 "Sigamos hambrientos y alocados" Steve Jobs, 2005 en su famoso discurso en Stanford.
