@@ -10,11 +10,9 @@ Me despido con esta frase:
 "Sigamos hambrientos y alocados" Steve Jobs, 2005 en su famoso discurso en Stanford.
 #Rutas de contacto: 
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis%20Vega-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alexis-vega-3b4437333/)
 
 [![Twitter](https://img.shields.io/badge/Twitter-@alexismouwid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/alexismouwit)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis%20Vega-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alexis-vega-3b4437333/)
 
 ## Contacto y apoyo:
 
