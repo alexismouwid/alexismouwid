@@ -1,4 +1,4 @@
-Estudiante de desarrollo web. Llevo más de año y medio sumergido en el mundo del desarrollo web, aprendiendo y practicando diversas tecnologías. He trabajado en varios proyectos personales, lo que me ha permitido mejorar mis habilidades.
+Hola! que tal? Llevo más de año y medio sumergido en el mundo del desarrollo web, aprendiendo y practicando diversas tecnologías. He trabajado en varios proyectos personales, lo que me ha permitido mejorar mis habilidades.
 
 La mayor parte de mi conocimiento la he obtenido de recursos online, documentación oficial, videos, libros, y inteligencias artificales. Debo destacar la Academia de Hola Mundo, donde el profesor Nicolás Shurman me a guiado  en mi estudio. Gracias a su metodologia de enseñanza, he podido entender mejor las bases de la programación, la estructura y el diseño de esta.
 
